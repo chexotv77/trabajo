@@ -1,4 +1,4 @@
-puts "dame la contraseña y te dare una contraseña"
+     puts "dame la contraseña y te dare una contraseña"
 
 class Contr
 	def pedir_contraseña
